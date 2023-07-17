@@ -1,0 +1,49 @@
+.recommendedContainer {
+    width: 100%;
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.recommendedContent {
+    width: 1024px;
+    min-height: 200px;
+    padding: 32px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 36px;
+    margin: 24px 0;
+    font-weight: 400;
+}
+
+.subTitle {
+    font-size: 16px;
+    margin: 24px 0;
+}
+
+.academies {
+    width: 100%;
+    height: 65px;
+    margin-top: 50px;
+}
+
+.images {
+    width: 100%;
+    min-height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.img {
+    width: 183px;
+    height: 158px;
+    padding: 16px;
+    margin-right: 10px;
+}

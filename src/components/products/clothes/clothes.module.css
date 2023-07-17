@@ -1,0 +1,72 @@
+.clothesContainer {
+    width: 100%;
+    min-height: 450px;
+    margin-top: 70px;
+    display: flex; 
+    justify-content: center;  
+}
+
+.clothesContent {
+    width: 700px;
+    min-height: 200px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.selectBox {
+    width: 400px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 5px;   
+}
+
+.select {
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    margin-left: 15px; 
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.text {
+    font-size: 18px;
+}
+
+.showData {
+    width: 400px;
+    height: 380px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 6px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.clothesTitle {
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.textProps, .textName {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.productInfo {
+    width: 80%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #000;
+}

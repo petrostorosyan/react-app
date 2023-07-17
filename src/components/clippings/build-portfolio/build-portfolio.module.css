@@ -1,0 +1,64 @@
+.buildPorfolioContainer {
+    width: 100%;
+    height: 416px;
+    background-color: #4A75AF;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background-image: url('../../../assets/how-it-works/ilustration-bg.svg');
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 1920px;
+}
+
+.leftDecor {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 235px;
+    height: 215px;
+}
+
+.buildPorfolioContent {
+    width: 1024px;
+    min-height: 100px;
+    padding: 64px 0;
+}
+
+.leftSide, .rightSide {
+    width: 50%;
+    min-height: 100px;
+}
+
+.title {
+    font-size: 44px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.btn {
+    width: 164px;
+    height: 56px;
+    border: unset;
+    background: linear-gradient(to right, #4b76b0 0%, #65bbb7 100%);
+    cursor: pointer;
+}
+
+.btnLink {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.illustration {
+    width: 1300px;
+    height:1100px;
+    position: absolute;
+    top: 22px;
+    right: 45px;
+    border: 1px solid #000;
+}

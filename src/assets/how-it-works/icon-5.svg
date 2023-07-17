@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <linearGradient id="icon_multimedia-a" x1="-2.381%" x2="102.381%" y1="50%" y2="50%">
+      <stop offset="0%" stopColor="#4B76B0"/>
+      <stop offset="99.72%" stopColor="#65BBB7"/>
+    </linearGradient>
+    <linearGradient id="icon_multimedia-b" x1="-12.122%" x2="124.231%" y1="49.998%" y2="49.998%">
+      <stop offset="0%" stopColor="#4B76B0"/>
+      <stop offset="99.72%" stopColor="#65BBB7"/>
+    </linearGradient>
+    <linearGradient id="icon_multimedia-c" x1="0%" y1="50%" y2="50%">
+      <stop offset="0%" stopColor="#4B76B0"/>
+      <stop offset="99.72%" stopColor="#65BBB7"/>
+    </linearGradient>
+    <linearGradient id="icon_multimedia-d" x1="0%" y1="50%" y2="50%">
+      <stop offset="0%" stopColor="#4B76B0"/>
+      <stop offset="99.72%" stopColor="#65BBB7"/>
+    </linearGradient>
+    <linearGradient id="icon_multimedia-e" x1="-12.455%" x2="112.449%" y1="49.999%" y2="49.999%">
+      <stop offset="0%" stopColor="#4B76B0"/>
+      <stop offset="99.72%" stopColor="#65BBB7"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fillRule="evenodd" transform="translate(5 6)">
+    <rect width="63" height="41" x="1.5" y=".5" stroke="url(#icon_multimedia-a)" stroke-width="3"/>
+    <polygon stroke="url(#icon_multimedia-b)" stroke-width="3" points="39.874 20.259 27.5 13.11 27.5 27.409 39.874 20.259 27.5 13.11 27.5 27.409"/>
+    <path stroke="url(#icon_multimedia-c)" stroke-width="3" d="M0,58.5 L12,58.5"/>
+    <path stroke="url(#icon_multimedia-d)" stroke-width="3" d="M23,58.5 L66,58.5"/>
+    <circle cx="17.603" cy="58.069" r="5.5" stroke="url(#icon_multimedia-e)" stroke-width="2.74"/>
+  </g>
+</svg>

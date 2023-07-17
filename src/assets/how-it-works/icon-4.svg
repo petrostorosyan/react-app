@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <linearGradient id="icon_onthego-a" x1="0%" y1="50%" y2="50%">
+      <stop offset="0%" stopColor="#4B76B0"/>
+      <stop offset="99.72%" stopColor="#65BBB7"/>
+    </linearGradient>
+    <linearGradient id="icon_onthego-b" x1="0%" y1="50%" y2="50%">
+      <stop offset="0%" stopColor="#4B76B0"/>
+      <stop offset="99.72%" stopColor="#65BBB7"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fillRule="evenodd" transform="translate(0 14)">
+    <path fill="url(#icon_onthego-a)" fillRule="nonzero" d="M71.507,12 L61,12 L61,0 L0,0 L0,41 L22,41 L22,46 L17,46 L17,48 L22.131,48 L38.992,48 L44,48 L44,46 L39,46 L39,41 L51,41 L51,42.012 C51,44.011 52.647,46 54.647,46 L71.508,46 C73.506,46 75,44.011 75,42.012 L75,15.508 C75,13.524 73.506,12 71.507,12 Z M58,2 L58,12 L54.647,12 C52.647,12 51,13.509 51,15.508 L51,31 L3,31 L3,2 L58,2 Z M36.581,46 L25,46 L25,41 L37,41 L37,45.628 L36.581,46 Z M38.991,38 L22.131,38 L3,38 L3,34 L51,34 L51,38 L38.991,38 Z M72,41.795 C72,42.46 71.46,43 70.795,43 L54.205,43 C53.54,43 53,42.46 53,41.795 L53,15.205 C53,14.54 53.54,14 54.205,14 L70.794,14 C71.46,14 72,14.54 72,15.205 L72,41.795 Z"/>
+    <rect width="2" height="3" x="62" y="38" fill="url(#icon_onthego-b)"/>
+    <path fill="url(#icon_onthego-b)" fillRule="nonzero" d="M23,6 L6,6 L6,28 L23,28 L23,6 Z M21,25 L9,25 L9,8 L21,8 L21,25 Z"/>
+    <rect width="19" height="2" x="27" y="6" fill="url(#icon_onthego-b)"/>
+    <rect width="19" height="2" x="27" y="16" fill="url(#icon_onthego-b)"/>
+    <rect width="19" height="3" x="27" y="25" fill="url(#icon_onthego-b)"/>
+    <path fill="url(#icon_onthego-b)" fillRule="nonzero" d="M57,29 L69,29 L69,17 L57,17 L57,29 Z M59,19 L67,19 L67,26 L59,26 L59,19 Z"/>
+  </g>
+</svg>

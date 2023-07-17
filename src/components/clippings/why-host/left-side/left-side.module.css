@@ -1,0 +1,36 @@
+.leftSideContainer {
+    width: 100%;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 32px;
+    position: relative;
+}
+
+.title {
+    font-size: 24px;
+    color: #40423F;
+    padding-bottom: 10px;
+    margin: 0;
+    font-weight: 500;
+}
+
+.line {
+    width: 32%;
+    height: 2px;
+    background: linear-gradient(to right, #4b76b0 0%, #65bbb7 100%);
+}
+
+.descrition {
+    font-size: 16px;
+    margin: 32px 0;
+}
+
+.pic {
+    width: 440px;
+    height: 440px;
+    position: absolute;
+    right: 370px;
+    top: 165px;
+}

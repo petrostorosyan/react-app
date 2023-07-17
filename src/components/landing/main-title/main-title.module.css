@@ -1,0 +1,72 @@
+.titleContainer {
+    width: 100%;
+    min-height: 200px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 64px;
+}
+
+.titleContent {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainTitle {
+    font-size: 52px;
+    color: #D9E3EA;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.subTitle {
+    width: 58%;
+    min-height: 50px;
+    font-size: 20px;
+    color: #9BA9B4;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.buttons {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.freeTrial {
+    padding: 12px 32px;
+    color: #fff;
+    background-color: #5d5dff;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: 700;
+}
+
+.freeTrial:hover {
+    transition: 0.3s;
+    background-color: #4b4acf;
+}
+
+.learnMore {
+    padding: 12px 32px;
+    color: #fff;
+    background-color: #33363A;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: 700;
+}
+
+.learnMore:hover {
+    transition: 0.3s;
+    background-color: #25282c;
+}
+

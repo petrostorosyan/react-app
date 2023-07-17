@@ -1,0 +1,92 @@
+.infoContainer {
+    width: 100%;
+    min-height: 200px;
+    padding: 32px;
+    padding-left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.infoTitle {
+    font-size: 36px;
+    color: #40423F;
+    margin: 0;
+    margin-top: 32px;
+    font-weight: 500;
+}
+.join {
+    margin: 0;
+    margin-top: 32px;
+    font-size: 24px;
+    color: #40423F;
+    font-weight: 500;
+}
+
+.description {
+    font-family: 'Din', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    margin-top: 32px;
+    line-height: 1.5;
+}
+
+.usersJoin {
+    width: 100%;
+    height: 72px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    margin-top: 32px;
+}
+
+.btn {
+    width: 125px;
+    height: 56px;
+    border: unset;
+    background: linear-gradient(to right, #4b76b0 0%, #65bbb7 100%);
+    cursor: pointer;
+}
+
+.btnLink {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.users {
+    width: 230px;
+    height: 100%;
+    margin-left: 32px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.svg {
+    width: 110px;
+    height: 50px;
+}
+
+.desc {
+    font-size: 14px;
+    padding-left: 32px;
+}
+
+.images {
+    width: 100%;
+    min-height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    margin: 0;
+    margin-top: 32px;
+    background-color: #fff;
+}
+
+.img {
+    margin-right: 10px;
+}

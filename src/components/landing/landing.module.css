@@ -1,0 +1,30 @@
+.mainContainer {
+    width: 100%;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #151719;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.decor {
+    position: absolute;
+    right: 0;
+}
+
+.topBox {
+    width: 100%;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mainContent {
+    width: 70%;
+    min-height: 200px;
+    padding: 0px 24px;
+    z-index: 2;
+}

@@ -1,0 +1,74 @@
+.projectContainer {
+    width: 100%;
+    min-height: 300px;
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.greenBox {
+    width: 181px;
+    height: 30px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #16A34A;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: #BBF7D0;
+}
+
+.projectTitle {
+    text-align: center;
+    color: #D9E3EA;
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+
+.projectDesc {
+    margin: 0;
+    width: 768px;
+    height: 60px;
+    font-size: 20px;    
+    text-align: center;
+    color: #9BA9B4;
+    
+}
+
+.projectInformation {
+    width: 85%;
+    min-height: 100px;
+    padding-top: 64px;
+    padding-bottom: 40px;
+}
+
+.infoBox {
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.projectImg {
+    width: 50%;
+    height: auto;
+}
+
+.leftToRight {
+    width: 50%;
+    padding-right: 64px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.rightToLeft {
+    width: 50%;
+    padding-left: 64px;
+    display: flex;
+    justify-content: flex-end;
+}

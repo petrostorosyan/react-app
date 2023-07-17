@@ -1,0 +1,28 @@
+.whyHostContainer {
+    width: 100%;
+    min-height: 300px;
+    background-color: #F4F3ED;
+    display: flex;
+    justify-content: center;
+    padding: 64px 0;
+}
+
+.whyHostContent {
+    width: 1024px;
+    min-height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.hostLeftSide {
+    width: 50%;
+    min-height: 200px;
+}
+
+.hostRightSide {
+    width: 50%;
+    min-height: 200px;
+    margin-bottom: 60px;
+    padding-left: 30px;
+}

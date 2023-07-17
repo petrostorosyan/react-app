@@ -1,0 +1,43 @@
+.portfolioContainer {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+}
+
+.portfolioContent {
+    width: 1024px;
+    min-height: 200px;
+    padding: 64px 0;
+    position: relative;
+}
+
+.portfolioInfo {
+    width: 60%;
+    min-height: 200px;
+    position: absolute;
+    z-index: 5;
+}
+
+.decor {
+    position: absolute;
+    top: 447px;
+    left: 537px;
+}
+
+.decor > img {
+    width: 250px;
+}
+
+.portfolio {
+    width: 820px;
+    height: 537px;
+    position: absolute;
+    top: 100px;
+    left: 641px;
+}
+
+.portfolio > img {
+    width: 100%;
+    height: 100%;
+}

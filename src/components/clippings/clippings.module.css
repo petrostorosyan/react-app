@@ -1,0 +1,6 @@
+.clippingsContainer {
+    width: 100%;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+}
