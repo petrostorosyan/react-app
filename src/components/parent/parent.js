@@ -9,6 +9,7 @@ const Parent = () => {
   return (
     <div className={css.parentContainer}>
       <h1>Parent</h1>
+      <h2>Header</h2>
       <p>{data}</p>
       <button className={css.routeClick}>
         <Link className={css.route} to="/parent/child">Route to child</Link>
